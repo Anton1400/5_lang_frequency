@@ -3,7 +3,7 @@ import re
 from collections import Counter
 
 
-TOP_WORDS = 100
+TOP_WORDS = 10
 
 
 def load_data(filepath):
