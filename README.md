@@ -1,1 +1,4 @@
-Запустите скрипт lang_frequency.py, первым параметром указав файл с текстом, который нужно проанализировать
+# 5_lang_frequency
+
+## Usege
+ - Запустите `python lang_frequency.py <path_to_text>`
